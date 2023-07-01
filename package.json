@@ -1,0 +1,23 @@
+{
+  "name": "sitescroll",
+  "version": "1.0.0",
+  "description": "Easily create animations based on scrolling",
+  "main": "scroll-animations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matouschdavid/SiteScroll.git"
+  },
+  "keywords": [
+    "animations",
+    "scroll"
+  ],
+  "author": "David Matousch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matouschdavid/SiteScroll/issues"
+  },
+  "homepage": "https://github.com/matouschdavid/SiteScroll#readme"
+}
